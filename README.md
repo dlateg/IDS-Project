@@ -11,6 +11,6 @@ SVM and kNN model trained using the UNSWNB15 dataset. More information on the da
 
 Ensure your system is capable of running machine learning software. You can follow this guide for help - https://towardsdatascience.com/python-environment-setup-for-deep-learning-on-windows-10-c373786e36d1
 
-Clone this repository to your local and run using the command - python feature_selection.py
+Clone this repository to your local and run from terminal using the command - python feature_selection.py
 
 The ipynb file is a jupyter notebook file that shows the ouput of the code
